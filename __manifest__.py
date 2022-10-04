@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 {
+    "license": "LGPL-3",
     'name': "test_cicd",
     'author': "Anderson",
     'website': "https://github.com/actonsys",
