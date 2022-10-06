@@ -2,7 +2,7 @@
 {
     "license": "LGPL-3",
     'name': "test_cicd",
-    'author': "Anderson",
+    'author': "Anderson Saraiva",
     'website': "https://github.com/actonsys",
 
     # Categories can be used to filter modules in modules listing
